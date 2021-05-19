@@ -1,0 +1,25 @@
+h2 {
+    color: black;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.text {
+    padding-right: 100;
+}
+
+h1 {
+    color: black;
+    text-align: right;
+    padding-right: 150px;
+}
+
+#video {
+    border-color: black;
+    border-width: 20px;
+    border-radius: 12px;
+}
+
+#marquee1 {
+    background-color: springgreen;
+}
